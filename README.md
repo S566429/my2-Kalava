@@ -20,4 +20,4 @@ I like **korea** because it is very famous for BTS. And also famous for most of 
 
 
 ### MyStats
-[Mystats](Mystats)
+[Mystats](Mystats.md)
