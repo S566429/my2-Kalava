@@ -37,3 +37,25 @@ Here we can see the table which contain 4 kind of sports.The first coloumn is na
 >  Imagination is more important than knowledge  ~ *Albert Einstein*
 >
 > Science can never solve one problem without raising ten more problems  ~ *George Bernard Shaw*
+
+# Code Fencing
+> How to use ' and " in PHP string? 
+
+<https://stackoverflow.com/questions/71669707/how-to-use-and-in-php-string>
+
+```
+<?php 
+  
+function startsWith($string, $startString) { 
+  $len = strlen($startString); 
+  return (substr($string, 0, $len) === $startString); 
+} 
+
+// usage
+echo startsWith("cat", "c"); // true
+echo startsWith("dog", "x"); // false
+
+?> 
+
+```
+<https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/>
