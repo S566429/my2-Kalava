@@ -17,7 +17,5 @@ I like **korea** because it is very famous for BTS. And also famous for most of 
 - Ddukbokki 
 - Tteokbokki
 
-
-
 ### MyStats
 [MyStats](MyStats.md)
