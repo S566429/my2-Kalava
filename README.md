@@ -28,8 +28,12 @@ Here we can see the table which contain 4 kind of sports.The first coloumn is na
 | Name of the sports |   Reason   |   How many hours |
 |       ---              |         ---           |        ---          |
 |  Cricket    |    Virat kohli will be there in cricket    |   2 hours   |
-|  Football   |    One of the nice game to play        |   1 hour    |
+|  Football   |    One of the nicsse game to play        |   1 hour    |
 |  Basketball |    It helps us in being active in a day|   1 hour    |
 |  PUBG     |    Nice timepass to play with friends               |   4 hour    |
 
 ***
+# Quotes for life
+>  Imagination is more important than knowledge  ~ *Albert Einstein*
+>
+> Science can never solve one problem without raising ten more problems  ~ *George Bernard Shaw*
