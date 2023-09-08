@@ -41,21 +41,14 @@ Here we can see the table which contain 4 kind of sports.The first coloumn is na
 # Code Fencing
 > How to use ' and " in PHP string? 
 
-<https://stackoverflow.com/questions/71669707/how-to-use-and-in-php-string>
+<https://stackoverflow.com/questions/11660507/how-to-use-font-faces-in-css-file-within-spring-3>
 
 ```
-<?php 
-  
-function startsWith($string, $startString) { 
-  $len = strlen($startString); 
-  return (substr($string, 0, $len) === $startString); 
-} 
-
-// usage
-echo startsWith("cat", "c"); // true
-echo startsWith("dog", "x"); // false
-
-?> 
+@font-face {
+  font-family: 'MyWebFont';
+  src:  url('myfont.woff2') format('woff2'),
+        url('myfont.woff') format('woff');
+}
 
 ```
-<https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/>
+<https://css-tricks.com/snippets/css/using-font-face-in-css/>
